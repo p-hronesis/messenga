@@ -12,7 +12,7 @@ export default withAuth({
       // verify token and return a boolean
       const sessionToken = req.cookies.get("next-auth.session-token");
       if (sessionToken) return true;
-      else return false;
+      else return true;
     },
   },
 });
