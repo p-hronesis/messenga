@@ -8,7 +8,7 @@ export function middleware(request: NextRequest) {
   const protectedRoutes = ["/users", "/conversations"];
 
   if (protectedRoutes.some((route) => pathname.startsWith(route))) {
-    const token = request.cookies.get("token");
+    const token = request.cookies.get("next-auth.session-token");
 
     if (!token) {
       return NextResponse.redirect(new URL("/", request.url));

@@ -1,0 +1,14 @@
+{
+  "next-auth.csrf-token": {
+    "name": "next-auth.csrf-token",
+    "value": "d4846e74d894d7cf2bb431f867269294faa381337dc05f79a1338e088d815f54|f61456c897c59cb47d3f9a856d84c55bc56ce6532597ec8e828bfd80a76281ec"
+  },
+  "next-auth.callback-url": {
+    "name": "next-auth.callback-url",
+    "value": "http://localhost:3000/"
+  },
+  "next-auth.session-token": {
+    "name": "next-auth.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..PRHmMu8L8fpyJj5S.YIDd4pO6VDFgvfC5bwErCrjLlo0QyX_TeZ2ycgddn9mIA1yd3fR5umv4BT-jwTu20KSqvOM6K0vLTzo6_h9u6CRoj2YGGca8Y_f4Mggs066MePnoe4YxqIpOdIMlV_xBFkSlIlItjL0AKEPzn5isG8rfPWz-ItfaZc6qbQxaJYEmLzkujz8tHbE7yzt_WxoFXJb6T4Uz3ajDeUq0kdpqkAysBvd3q0k9__qvaDF8HdxvnHUEd2GxsGk.z8YW-XayJpaSDWrkQJG89g"
+  }
+}
