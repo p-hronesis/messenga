@@ -1,0 +1,10 @@
+{
+  "next-auth.csrf-token": {
+    "name": "next-auth.csrf-token",
+    "value": "d4846e74d894d7cf2bb431f867269294faa381337dc05f79a1338e088d815f54|f61456c897c59cb47d3f9a856d84c55bc56ce6532597ec8e828bfd80a76281ec"
+  },
+  "next-auth.callback-url": {
+    "name": "next-auth.callback-url",
+    "value": "http://localhost:3000/users"
+  }
+}
