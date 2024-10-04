@@ -3,8 +3,6 @@ import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 
 export function middleware(request: NextRequest) {
-  console.log(request.cookies);
-  console.log("THOSE ARE THE COOKIES");
   const { pathname } = request.nextUrl;
 
   const protectedRoutes = ["/users", "/conversations"];
