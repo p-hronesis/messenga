@@ -1,10 +1,14 @@
 {
-  "next-auth.csrf-token": {
-    "name": "next-auth.csrf-token",
-    "value": "d4846e74d894d7cf2bb431f867269294faa381337dc05f79a1338e088d815f54|f61456c897c59cb47d3f9a856d84c55bc56ce6532597ec8e828bfd80a76281ec"
+  "__Host-next-auth.csrf-token": {
+    "name": "__Host-next-auth.csrf-token",
+    "value": "4abee39f668f7a45da6361b3f4038b99cba90b7a05f05cfc68f9a57cf48c87b5|52cccc6978eb30189e714c1d0d5c2469b4e5fe45f36fc8e4bde089510f25292e"
   },
-  "next-auth.callback-url": {
-    "name": "next-auth.callback-url",
-    "value": "http://localhost:3000/users"
+  "__Secure-next-auth.callback-url": {
+    "name": "__Secure-next-auth.callback-url",
+    "value": "https://messenga.vercel.app/"
+  },
+  "__Secure-next-auth.session-token": {
+    "name": "__Secure-next-auth.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..oYi_w6q53k4unxyH.roaahyYlF_iB8C9htuKYtlmKqGip2kTaTMS54k-Tp-S4hDoEMFz6EX2q9iceXGcrzGmhqo31kl37zF_ZZ3Zej7RyPnChTeC1Qdv6h3D8RzV3H_ylkVbCC2CuyntWjey3o26Xyxs1JecDONoSQaX5Lv5_jNh2QxMJ3Py0N5Jg3bVWOXtoCiHjybAfwV2kIKQelKFDMds18SvwUcZApsziJQyZQf8GFys711ALAI9T4S8vaSPh16noj-4._jko_zDsCDFQhIus23lvoQ"
   }
 }
